@@ -1,0 +1,2 @@
+apt update
+apt install qemu-system -y && apt install qemu-kvm -y
